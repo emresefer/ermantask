@@ -1,0 +1,8 @@
+User ID	Age	Income	Child Age < 8	Gender	Internet User	Own High Drain Device	Duracell User	Question 1	Question 2	Question 3	Brand Loyalty	Purchase Frequency	Purchase Amount
+6.0	34.0	56000.0	1	1	1	0	0	0	0	0	46.0	3.0	45.0
+7.0	46.0	67000.0	0	1	1	0	0	0	0	1	24.0	2.0	34.0
+10.0	75.0	57000.0	0	1	1	1	1	0	1	0	11.0	12.0	4.0
+15.0	13.0	56000.0	1	0	0	0	1	0	1	1	12.0	6.0	11.0
+17.0	36.0	64000.0	0	0	0	0	0	0	0	1	89.0	2.0	12.0
+25.0	47.0	64000.0	0	1	0	1	0	1	0	0	56.0	26.0	4.0
+27.0	69.0	57000.0	0	0	0	0	0	1	0	1	57.0	24.0	8.0
